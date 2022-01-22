@@ -116,7 +116,7 @@
           "type": "app://x5WebParse"
         },
         {
-          "name": "乐视TV",
+          "name": "芒果TV",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kRpcdw2C4PZPrrNAv_!!913168420.png",
           "url": "https://m.mgtv.com/channel/home",
           "type": "app://x5WebParse"
@@ -128,9 +128,9 @@
           "type": "app://x5WebParse"
         },
         {
-          "name": "芒果TV",
+          "name": "乐视",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kRpcdw2C4PZPrrNAv_!!913168420.png",
-          "url": "https://m.letv.com/",
+          "url": "https://m.le.com/",
           "type": "app://x5WebParse"
         },
         {
