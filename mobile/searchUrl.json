@@ -241,7 +241,6 @@
       "click": true,
       "wePlus": {}
     },
-
     {
       "id": 1,
       "name": "★☆☆快播云",
@@ -473,7 +472,6 @@
       "click": true,
       "wePlus": {}
     },
-
     {
       "id": 1,
       "name": "百度云",
@@ -559,7 +557,7 @@
       "url": "http://video.yingworld.vip/api.php/provide/vod/at/xml",
       "cate": "电影,20&&连续剧,21&&喜剧片,22&&爱情片,23&&科幻片,24&&恐怖片,25&&剧情片,26&&战争片,27&&国产剧,32&&港台剧,33&&日韩剧,34&&欧美剧,35",
       "click": true,
-      "wePlus": {https://www.kupu.cc/addons/bilibili/?url=}
+      "wePlus": {}
     },
     {
       "id": 1,
