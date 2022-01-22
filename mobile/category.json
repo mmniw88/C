@@ -116,9 +116,21 @@
           "type": "app://x5WebParse"
         },
         {
-          "name": "芒果TV",
+          "name": "乐视TV",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kRpcdw2C4PZPrrNAv_!!913168420.png",
           "url": "https://m.mgtv.com/channel/home",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "影视界",
+          "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01Y2Kpb02C4PZOOOaxK_!!913168420.png",
+          "url": "http://video.yingworld.vip/",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "芒果TV",
+          "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01kRpcdw2C4PZPrrNAv_!!913168420.png",
+          "url": "https://m.letv.com/",
           "type": "app://x5WebParse"
         },
         {
